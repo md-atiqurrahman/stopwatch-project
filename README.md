@@ -1,9 +1,9 @@
-# Getting Started with Create React App
+# Stop watch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple stop watch project where you can start, stop and reset a stop watch.Stop watch has hour,minute,seconds and milliseconds fields.
 
-## Available Scripts
-
+## live page link
+This is live link of the page [Click here](https://stopwatch-project-f8a7cb.netlify.app/).
 In the project directory, you can run:
 
 ### `npm start`
